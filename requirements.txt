@@ -1,0 +1,5 @@
+unidecode
+termcolor
+pytest
+pytest-cov
+mock
